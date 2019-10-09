@@ -1,5 +1,7 @@
 # Blocker Buster
 
+View deployed project here => https://blockerbuster.herokuapp.com/
+
 Have you ever been coding away and then run face first into the mother of all blockers. You throw everything you have at it, but there is nothing that you can do to fix the issue you are facing. It is time to take a step back, regroup and let your mind take a break. Often through this process of takign a step back and lettign your mind wander the answer to your blocker will become apparent. However, this takign a break and disengaging can be a struggle. ENTERBLOCKER BUSTER the fun filled game where you can let your mind wander and even chat to developers so that your blockers can become a thing of the past. 
 
 
